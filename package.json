@@ -1,0 +1,23 @@
+{
+  "name": "mvc-express",
+  "version": "1.0.0",
+  "description": "Atividade de introdução ao MVC com Express do curso de FullStack da DigitalHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaisRibeiro/mvc-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaisRibeiro/mvc-express/issues"
+  },
+  "homepage": "https://github.com/LaisRibeiro/mvc-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
